@@ -2,7 +2,7 @@
 ## a short test to combine the creativity of context, picture and video creation with ready build tools!
 
 
-The offered code exemplifies an original method for producing a video with visuals and narration from a given key-word or short sentence. To come up with suggestions for keywords and ideas for **DALL-E** picture production, it makes use of **OpenAI's GPT-3.5-turbo API**. The **ElevenLabs API** is also used to record narration to go along with the video scenes. After that, the photos and voiceovers are combined in a movie using a zoom effect. Using this method, you may easily generate interesting material for your blog entries, lessons, or presentations.
+The offered code exemplifies an original method for producing a video with visuals and narration from a given key-word or short sentence. To come up with suggestions for keywords and ideas from **DALL-E** API calls, it makes also use of **OpenAI's GPT-3.5-turbo API**. The **ElevenLabs API** is than used to record narration to go along with the video scenes. After that, the photos and voiceovers are combined in a movie using a zoom effect. Using this method, you may easily generate interesting material for your blog entries, lessons, or presentations.
 
 This code is **purely for testing** - you need to manually cleanup your directory for the next run. I just want to keep all the old files.
 
