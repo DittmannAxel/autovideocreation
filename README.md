@@ -20,16 +20,16 @@ pip install imageio pillow requests pydub openai elevenlabs
 ```
 3. in line 12+13 provide your keys:
 ```python
-# Set the creation of the phrase or word
-creation = "sunset on the beach"
-```
-3. And do not forget to change you key-word or small phrase:
-```python
 openai.api_key = "Set-your-OpenAI-API-Key-Here"
 set_api_key("Set-Your-Elevenlabs-API-KEy Here")
 ```
-4. You may alter the OpenAPI Prompts as you wish :-) - I did a comment in the code
-5. And than: you are ready to start :-)
+4. And do not forget to change you key-word or small phrase:
+```python
+# Set the creation of the phrase or word
+creation = "sunset on the beach"
+```
+5. You may alter the OpenAPI Prompts as you wish :-) - I did a comment in the code. I did not spent too much time in highly sphisticated prompt engineering - it is just a PoC
+6. And than: you are ready to start :-)
 
 
 ## Enjoy!!
